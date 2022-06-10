@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![rizwanad](https://circleci.com/gh/rizwanad/devops-microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/rizwanad/devops-microservice)
 
 ## Project Overview
 
